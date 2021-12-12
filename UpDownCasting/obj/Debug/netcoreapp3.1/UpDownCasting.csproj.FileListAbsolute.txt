@@ -1,0 +1,14 @@
+C:\Users\tahmi\source\repos\Nullable, Struct, UpDownCasting\UpDownCasting\bin\Debug\netcoreapp3.1\UpDownCasting.exe
+C:\Users\tahmi\source\repos\Nullable, Struct, UpDownCasting\UpDownCasting\bin\Debug\netcoreapp3.1\UpDownCasting.deps.json
+C:\Users\tahmi\source\repos\Nullable, Struct, UpDownCasting\UpDownCasting\bin\Debug\netcoreapp3.1\UpDownCasting.runtimeconfig.json
+C:\Users\tahmi\source\repos\Nullable, Struct, UpDownCasting\UpDownCasting\bin\Debug\netcoreapp3.1\UpDownCasting.runtimeconfig.dev.json
+C:\Users\tahmi\source\repos\Nullable, Struct, UpDownCasting\UpDownCasting\bin\Debug\netcoreapp3.1\UpDownCasting.dll
+C:\Users\tahmi\source\repos\Nullable, Struct, UpDownCasting\UpDownCasting\bin\Debug\netcoreapp3.1\UpDownCasting.pdb
+C:\Users\tahmi\source\repos\Nullable, Struct, UpDownCasting\UpDownCasting\obj\Debug\netcoreapp3.1\UpDownCasting.csproj.AssemblyReference.cache
+C:\Users\tahmi\source\repos\Nullable, Struct, UpDownCasting\UpDownCasting\obj\Debug\netcoreapp3.1\UpDownCasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahmi\source\repos\Nullable, Struct, UpDownCasting\UpDownCasting\obj\Debug\netcoreapp3.1\UpDownCasting.AssemblyInfoInputs.cache
+C:\Users\tahmi\source\repos\Nullable, Struct, UpDownCasting\UpDownCasting\obj\Debug\netcoreapp3.1\UpDownCasting.AssemblyInfo.cs
+C:\Users\tahmi\source\repos\Nullable, Struct, UpDownCasting\UpDownCasting\obj\Debug\netcoreapp3.1\UpDownCasting.csproj.CoreCompileInputs.cache
+C:\Users\tahmi\source\repos\Nullable, Struct, UpDownCasting\UpDownCasting\obj\Debug\netcoreapp3.1\UpDownCasting.dll
+C:\Users\tahmi\source\repos\Nullable, Struct, UpDownCasting\UpDownCasting\obj\Debug\netcoreapp3.1\UpDownCasting.pdb
+C:\Users\tahmi\source\repos\Nullable, Struct, UpDownCasting\UpDownCasting\obj\Debug\netcoreapp3.1\UpDownCasting.genruntimeconfig.cache

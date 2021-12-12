@@ -1,0 +1,14 @@
+C:\Users\tahmi\source\repos\Nullable, Struct, UpDownCasting\FibonacciSequence (GoldenRatio)\obj\Debug\netcoreapp3.1\FibonacciSequence (GoldenRatio).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahmi\source\repos\Nullable, Struct, UpDownCasting\FibonacciSequence (GoldenRatio)\obj\Debug\netcoreapp3.1\FibonacciSequence (GoldenRatio).AssemblyInfoInputs.cache
+C:\Users\tahmi\source\repos\Nullable, Struct, UpDownCasting\FibonacciSequence (GoldenRatio)\obj\Debug\netcoreapp3.1\FibonacciSequence (GoldenRatio).AssemblyInfo.cs
+C:\Users\tahmi\source\repos\Nullable, Struct, UpDownCasting\FibonacciSequence (GoldenRatio)\obj\Debug\netcoreapp3.1\FibonacciSequence (GoldenRatio).csproj.CoreCompileInputs.cache
+C:\Users\tahmi\source\repos\Nullable, Struct, UpDownCasting\FibonacciSequence (GoldenRatio)\bin\Debug\netcoreapp3.1\FibonacciSequence (GoldenRatio).exe
+C:\Users\tahmi\source\repos\Nullable, Struct, UpDownCasting\FibonacciSequence (GoldenRatio)\bin\Debug\netcoreapp3.1\FibonacciSequence (GoldenRatio).deps.json
+C:\Users\tahmi\source\repos\Nullable, Struct, UpDownCasting\FibonacciSequence (GoldenRatio)\bin\Debug\netcoreapp3.1\FibonacciSequence (GoldenRatio).runtimeconfig.json
+C:\Users\tahmi\source\repos\Nullable, Struct, UpDownCasting\FibonacciSequence (GoldenRatio)\bin\Debug\netcoreapp3.1\FibonacciSequence (GoldenRatio).runtimeconfig.dev.json
+C:\Users\tahmi\source\repos\Nullable, Struct, UpDownCasting\FibonacciSequence (GoldenRatio)\bin\Debug\netcoreapp3.1\FibonacciSequence (GoldenRatio).dll
+C:\Users\tahmi\source\repos\Nullable, Struct, UpDownCasting\FibonacciSequence (GoldenRatio)\bin\Debug\netcoreapp3.1\FibonacciSequence (GoldenRatio).pdb
+C:\Users\tahmi\source\repos\Nullable, Struct, UpDownCasting\FibonacciSequence (GoldenRatio)\obj\Debug\netcoreapp3.1\FibonacciSequence (GoldenRatio).dll
+C:\Users\tahmi\source\repos\Nullable, Struct, UpDownCasting\FibonacciSequence (GoldenRatio)\obj\Debug\netcoreapp3.1\FibonacciSequence (GoldenRatio).pdb
+C:\Users\tahmi\source\repos\Nullable, Struct, UpDownCasting\FibonacciSequence (GoldenRatio)\obj\Debug\netcoreapp3.1\FibonacciSequence (GoldenRatio).genruntimeconfig.cache
+C:\Users\tahmi\source\repos\Nullable, Struct, UpDownCasting\FibonacciSequence (GoldenRatio)\obj\Debug\netcoreapp3.1\FibonacciSequence (GoldenRatio).csproj.AssemblyReference.cache
